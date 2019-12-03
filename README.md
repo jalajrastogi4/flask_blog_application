@@ -2,7 +2,7 @@
 Simple blog application in flask
 It has :
 1. User Authentication
-2. Password reset
+2. Password reset via email (smtp)
 3. Posts CRUD operations
 
 Content to be added:
